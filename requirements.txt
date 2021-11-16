@@ -1,0 +1,4 @@
+requests~=2.25.1
+lxml~=4.6.2
+setuptools~=51.0.0
+selenium~=3.141.0
